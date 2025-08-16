@@ -4,11 +4,9 @@ I’m a backend developer passionate about building reliable and scalable applic
 
 In this space I’ll be sharing some of the projects I’ve been working on, both for learning and as portfolio pieces
 
----
+## Projects  
 
-### UserBuy  
-
-#### What is UserBuy?  
+### UserBuy
 UserBuy is a small e-commerce application I’m building to showcase my skills. It allows users to register as **customers** or **admins**, manage products, and simulate purchases with a virtual wallet system.  
 
 #### Technologies Used  
@@ -20,6 +18,11 @@ Working on UserBuy has helped me:
 - Work with MongoDB for structured yet flexible data  
 - Connect a Node.js backend with an Angular frontend  
 - Strengthen my understanding of layered architecture and clean code practices  
+
+#### Links  
+- **[Live Demo](https://pedrochatelain.github.io/frontend_userbuy/login)**
+- [Backend Repository](https://github.com/pedrochatelain/userbuy)  
+- [Frontend Repository](https://github.com/pedrochatelain/frontend_userbuy)    
 
 ## Get in Touch  
 - [LinkedIn](https://www.linkedin.com/in/pedro-chatelain-9268351a7/)  
